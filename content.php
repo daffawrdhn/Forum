@@ -637,7 +637,7 @@ function echoPostsForm($tID){
       New Comment
     </div>
     <div class='card-body'>
-      <h5 class='card-title'>Special title treatment</h5>
+      <h5 class='card-title'>Reply with heart =))</h5>
       <p class='card-text'>
       <textarea class='lebar' name='newComm' placeholder='New Comment'></textarea>
       <input type='hidden' name='topicID' value='".$tID."'><br>
